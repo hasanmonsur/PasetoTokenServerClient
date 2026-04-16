@@ -1,0 +1,27 @@
+@AuthenticateUsingPaseto_HostAddress = http://localhost:5188
+@token = "v4.local.v8y8ptSh6CKw3sO1IzwbtEDbxOIn_h4vD05DgNNzUf_cahENw0QhQzmpEPb3f5YM09QMIBwqiKBrfFtUYWLX5Wn50gCe4YAOdP-M1gAED_dGj7HGihz41fsJvbKs6bxFdCFkHihpKBRHW3oIANCLZMJmWSCsZbxQl7-P1JmHTEr1Q3dzn76prrdtm3ibsMObB4F3YRxbnMATQWmYQPavDShNW6ZevL_Xj09PQvqxjGFXw3vArTBr3TaXweSWn899PcSeFVJTOQ"
+
+### Step 1: Login - Get PASETO Token
+POST {{AuthenticateUsingPaseto_HostAddress}}/login
+Content-Type: application/json
+
+{
+  "Username": "demo",
+  "Password": "password"
+}
+
+###
+
+### Step 2: Get User Profile (Requires Authorization)
+# Replace YOUR_TOKEN_HERE in the variable at the top with the token from Step 1
+GET {{AuthenticateUsingPaseto_HostAddress}}/profile
+Authorization: Bearer {{token}}
+
+###
+
+### Step 3: Get Orders (Requires Authorization)
+# Replace YOUR_TOKEN_HERE in the variable at the top with the token from Step 1
+GET {{AuthenticateUsingPaseto_HostAddress}}/orders
+Authorization: Bearer {{token}}
+
+###

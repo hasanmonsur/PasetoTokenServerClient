@@ -1,0 +1,15 @@
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\bin\Debug\net10.0\ConsoleAppClient.exe
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\bin\Debug\net10.0\ConsoleAppClient.deps.json
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\bin\Debug\net10.0\ConsoleAppClient.runtimeconfig.json
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\bin\Debug\net10.0\ConsoleAppClient.dll
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\bin\Debug\net10.0\ConsoleAppClient.pdb
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.AssemblyInfoInputs.cache
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.AssemblyInfo.cs
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.csproj.CoreCompileInputs.cache
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.sourcelink.json
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.dll
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\refint\ConsoleAppClient.dll
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.pdb
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ConsoleAppClient.genruntimeconfig.cache
+E:\Test Projects\SamplePacetoToken\ConsoleAppClient\obj\Debug\net10.0\ref\ConsoleAppClient.dll
